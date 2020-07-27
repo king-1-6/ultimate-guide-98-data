@@ -1431,13 +1431,13 @@
 		{
 			"fighter_id": "ATHENA_XIII",
 			"skills_elements": {
-				"lake": null,
+				"lake": When Superstar Athena appears, increase own 40% healing, and decrease enemy \"Healer\" fighters 20% healing. When Ally fighters become \"idolater\" (increase 30% healing till Superstar Anthena dies). Increase own res rate, male \"idolaters\" get 30% of the effect and female fighters get 60% of the effect and increase 10% Anti-ULT. When Superstar Anthena appears she Will increase 7% ATK, small skill res rate, and Anti-ULT per one \"idolater\", when each \"idolater\" dies, she Will increase 200 rage, 7% ULT DMG (stack 5 times as much and last for whole battle), 30% crit (stack 5 times as much and be cleare When ULT makes crit). When the first /"idolater\" dies, Superstar Anthena will restore extra 400 rage. When only Superstar Anthena and one enemy appaer, she will increase 20% ATK, ULT DMG, Skill res rate, Anti-ULT and 40% crit, and last for whole battle. When there's \"idolater\". Superstar Anthena will get \"Eternal Idol\" effect (restore 250 rage ay once when her Anthena won't die When get deadly DMG,no more than once for each round). The \"idolater\" wiht highest HP percentage will trigger "support" (cleare Superstar Anthena's debuff and make her be inmune to debuff for 1 round ir his \"idolater\" has more than 50% HP, it will transfer 30% HP to Superstar Anthena), mean whole, this \"idolater's\" debuff will be cleare and get the \"Healing\" effect. Increase 40.6% res rate.
 				"lake_es": null,
 				"lake_pt": null,
-				"thunder": null,
+				"thunder": Attack a column, deal an extra DMG of 8% MAX.HP to the main target. Decrease the target's 40% healing, and the effect will be 60% in the target is male fighters (last for whole battle,and ignore debuff-free. When this effect get cleare at the first time, it will last for 2 rouds, instead of being cleare at once). Add \"Healing\" effect for ally fighters whit the lewest HP percentage ( recover HP of the 120% ATK at once, recover HP of the 80% ATK and 80 rage in next 2 rouds). If the target of \"Healing\" effect's HP percentage is below 50% the effect will be improves as \"Great Healing\" (the effect will increase 50%). Deal 190.3% + 1560 DMG to a column)
 				"thunder_es": null,
 				"thunder_pt": null,
-				"water": null,
+				"water": 
 				"water_es": null,
 				"water_pt": null
 			}
